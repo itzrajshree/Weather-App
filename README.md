@@ -1,5 +1,7 @@
 ## WeatherApp: A User-Centric Weather App with Enhanced Features
 
+![image](https://github.com/itzrajshree/Weather-App/assets/101933712/2351aa88-2be3-444c-8487-5d74524d7c10)
+
 ### Project Overview
 
 Weather applications have become an essential tool for daily life. This report explores the limitations of existing apps and proposes a new solution: WeatherApp. WeatherApp prioritizes user experience by incorporating innovative features:
