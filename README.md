@@ -1,7 +1,5 @@
 ## WeatherApp: A User-Centric Weather App with Enhanced Features
 
-This project report details the development of a novel weather application (app) designed to provide an exceptional user experience with real-time and forecasted weather information.
-
 ### Project Overview
 
 Weather applications have become an essential tool for daily life. This report explores the limitations of existing apps and proposes a new solution: WeatherApp. WeatherApp prioritizes user experience by incorporating innovative features:
@@ -24,13 +22,6 @@ Existing weather applications often utilize generic weather icons and lack detai
 * Enhance user experience with clear and informative weather visualization.
 * Empower users to make informed decisions through comprehensive weather data.
 
-### Technical Details
-
-* **Platform:** (Specify the platform chosen: mobile app (iOS/Android), web app, etc.)
-* **Technologies:** 
-    * Data Retrieval: (Specify the technologies used to fetch weather data)
-    * Data Presentation: (Specify the technologies used to display weather information)
-    * Icon Selection: (Describe the system for dynamically selecting weather icons)
 
 ### Functionalities
 
@@ -49,5 +40,3 @@ The project presents potential for further development, including:
 * Implementing additional weather data points (e.g., humidity, UV index)
 *  Adding weather alerts and notifications for severe weather events
 *  Exploring integration with wearable devices
-
-This report serves as a foundation for a user-centric weather application that empowers users with comprehensive and visually engaging weather information.
